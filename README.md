@@ -13,8 +13,8 @@
 Player is a soldier in the middle of the game field.
 ### Enemies
 There are two types of enemies in the game:
-- Beetle: A weak unit that moves fast.
-- Giant Beetle: A heavy unit with more health than a Beetle, but slower. </br>
+- **Beetle:** A weak unit that moves fast.
+- **Giant Beetle:** A heavy unit with more health than a Beetle, but slower. </br>
 In addition, enemies may drop Power-Ups.
 ### Weapons
 Player can use four types of weapon:
@@ -28,7 +28,7 @@ In-level (player always start with 100 Coin to level) currency. Player uses it t
 A button that gives the player a random fully loaded weapon.
 ### Power-Ups
 Enemies can drop two types of power-ups:
-- Max Ammo: Replenishes the current weapon's ammo.
-- Coin Bag: Adds 100 Coin to player's inventory.
+- **Max Ammo:** Replenishes the current weapon's ammo.
+- **Coin Bag:** Adds 100 Coin to player's inventory.
 ## Gameplay
 ![TheLastOne_GIF](https://user-images.githubusercontent.com/47994087/130297360-2e782964-f878-4589-b667-b09b47332629.gif)
